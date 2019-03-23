@@ -1,4 +1,4 @@
-# Spreadsheets
+# Gaming_Spreadsheets
 Hi, this repo showcases spreadsheet data layout and management for a variety of gaming features.</br></br>
 There's a Crafting Simulator to calculate how long it takes to make an item.</br>
 <b>Crafting</b>
