@@ -12,4 +12,4 @@ A hypothetical structure for setting up an card database for a card game.</br>
 <b>Inventory</b>
 ![Inventory](images/card_inventory.png) </br></br>
 
-Files are currently locked behind a password, so if you want access, message me at tedlim@alumni.stanford.edu.
+Files are currently locked behind a password, message me at tedlim@alumni.stanford.edu for access.
