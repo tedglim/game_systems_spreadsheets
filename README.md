@@ -12,7 +12,7 @@ A hypothetical structure for setting up an card database for a card game.</br>
 <b>Inventory</b>
 ![Inventory](images/card_inventory.png) </br></br>
 
-A cursory breakdown of Cookie Jam Blast's store and pricing
+A cursory breakdown of Cookie Jam Blast's store and pricing.</br>
 <b>Pricing</b></br>
 ![Pricing](images/cjb_base_prices.png) </br></br>
 
