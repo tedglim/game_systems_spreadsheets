@@ -14,6 +14,6 @@ A hypothetical structure for setting up an card database for a card game.</br>
 
 A cursory breakdown of Cookie Jam Blast's store and pricing
 <b>Pricing</b>
-![Pricing](images/cjb_pricing.png) </br></br>
+![Pricing](images/cjb_base_prices.png) </br></br>
 
 Files are currently locked behind a password, message me at tedlim@alumni.stanford.edu for access.
