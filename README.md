@@ -18,7 +18,7 @@ A cursory breakdown of Cookie Jam Blast's store and pricing.</br>
 ![Pricing](images/cjb_base_prices.png) </br></br>
 
 <b>Character Stats Calculator</b></br>
-A calculator to estimate FE3H character stats at given level based on equipped classes and natural stats progression.
+A calculator to estimate FE3H character stats at given level based on equipped classes and natural stats progression. You can use it here: https://docs.google.com/spreadsheets/d/1GrGriTwc7kQk9HqnOKJDq5ENItr3mSqkRG1H9xfwdBw/edit
 ![Character Stats Calculator](images/fe3h_stats_calc.png) </br></br>
 
 Files are currently locked behind a password, message me at tedlim@alumni.stanford.edu for access.
