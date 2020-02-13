@@ -1,3 +1,3 @@
 # Inventory
-A hypothetical Excel spreadsheet structure for setting up a card inventory database using Yugioh! Duel Links as an example.</br>
+A hypothetical Excel data structure for setting up a card inventory database using the mobile game Yugioh! Duel Links box set "Age of Discovery" as an example.</br></br>
 ![Inventory](images/Card_Inventory.png) </br></br>
