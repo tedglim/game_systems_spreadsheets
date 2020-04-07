@@ -17,8 +17,8 @@ Spreadsheet for daily rewards.
 <h1>Slots Setup Snapshot</h1>
 Spreadsheets for a simplified slots system.
 
-![SlotsSetup01](images/SlotsSetup01)
-![SlotsSetup02](images/SlotsSetup02)
+![SlotsSetup01](images/SlotsSetup01.png)
+![SlotsSetup02](images/SlotsSetup02.png)
 
 <h1>Slots Simulation Snapshot</h1>
 Spreadsheet for results of slots simulations.
